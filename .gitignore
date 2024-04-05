@@ -1,11 +1,29 @@
-# Prerequisites
-*.d
+# Windows thumbnail cache files
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+build/
+deploy/
+doc/
+misc/
+
+# Qt
+*.user
+*.pro.user
+*.pro.user.*
+
+
 
 # Compiled Object files
-*.slo
-*.lo
 *.o
+*.ko
 *.obj
+*.elf
 
 # Precompiled Headers
 *.gch
@@ -16,17 +34,29 @@
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
+# Qt-specific
+*.qmlc
+*.qm
+*.moc
+*.rcc
+*.qrc
+*.pro.user
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Generated files
+Makefile
+CMakeLists.txt
+CMakeFiles/
 
-# Executables
+# Compiled binaries
 *.exe
 *.out
-*.app
+
+# IDE-specific
+.vscode/
+*.pro.user
+*.user
+*.autosave
+
+# Build directory
+build/
+

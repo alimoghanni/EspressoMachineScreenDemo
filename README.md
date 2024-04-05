@@ -1,5 +1,5 @@
 # EspressoMachineScreenDemo
-EspressoMachineScreenDemo using QML
+EspressoMachineScreenDemo using QML (work in prrogress!)
 
 ### This application is written in QML
 ![Image of EspressoMachineScreenDemo](https://github.com/alimoghanni/EspressoMachineScreenDemo/blob/main/screenshot.jpg)
