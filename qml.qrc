@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomButton.qml</file>
+        <file>assets/images/americano.png</file>
+        <file>assets/images/back.png</file>
+        <file>assets/images/cafeaulait.png</file>
+        <file>assets/images/capuccino.png</file>
+        <file>assets/images/clean.png</file>
+        <file>assets/images/coffee.png</file>
+        <file>assets/images/down.png</file>
+        <file>assets/images/espresso.png</file>
+        <file>assets/images/lattemacchiato.png</file>
+        <file>assets/images/moredrinks.png</file>
+        <file>assets/images/playpause.png</file>
+        <file>assets/images/right.png</file>
+        <file>assets/images/settings.png</file>
+        <file>assets/images/shutdown.png</file>
+        <file>assets/images/up.png</file>
+        <file>assets/images/user.png</file>
+        <file>DisplayScreen.qml</file>
+        <file>assets/images/coffee-beans.png</file>
+    </qresource>
+</RCC>
